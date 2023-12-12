@@ -8,6 +8,7 @@ public class Objetivo5Application {
 
     public static void main(String[] args) {
         SpringApplication.run(Objetivo5Application.class, args);
+        //HomeController.main(null);
     }
 
 }

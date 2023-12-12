@@ -1,5 +1,6 @@
 package br.edu.ifsul.cstsi.objetivo5.model;
 
+import br.edu.ifsul.cstsi.objetivo5.animais.Animal;
 import jakarta.persistence.*;
 
 import java.util.Date;
